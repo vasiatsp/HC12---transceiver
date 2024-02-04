@@ -1,9 +1,9 @@
 HC12 TRANSCEIVER
 arduino code - 3.3V~5V
 
-TX of HC12 connects to pin 10 of the Arduino
+TX of HC12 connects to pin 2 of the Arduino
 
-RX of HC12 connects to pin 11 of the Arduino 
+RX of HC12 connects to pin 3 of the Arduino 
 
 To test AT commants connect SET of HC12 to GND
 
