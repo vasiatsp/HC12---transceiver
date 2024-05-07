@@ -1,3 +1,4 @@
+// this code is for both the transmitter and the receiver
 #include <SoftwareSerial.h>
 
 SoftwareSerial HC12(2, 3); // HC-12 TX Pin, HC-12 RX Pin
